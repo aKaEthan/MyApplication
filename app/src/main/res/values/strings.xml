@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mymessage</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_display_message2">Mymessage</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
