@@ -1,0 +1,10 @@
+ul.none {list-style-type: none;}
+div.text-area{font-size:26px;}
+div.radio{font-size:22px;}
+div.checkbox{font-size:22px;}
+body {background-image: url(../picture/bg.jpg);}
+h1 {color:#ffffff}
+h3 {color:#ffffff}
+div.modal-header{color:#000000}
+div.modal-body{color:#000000}
+div.modal-footer{color:#000000}
